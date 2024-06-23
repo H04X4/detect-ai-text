@@ -1,0 +1,5 @@
+streamlit==1.11.0
+googletrans==4.0.0-rc1
+torch==1.11.0
+transformers==4.20.1
+markovify==0.9.4
