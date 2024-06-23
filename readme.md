@@ -14,12 +14,12 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/h04x4_detect_ai
+    git clone https://github.com/h04x4_Practice-Scale
     ```
 
 2. Перейдите в директорию проекта:
     ```bash
-    cd h04x4_detect_ai
+    cd h04x4_Practice-Scale
     ```
 
 3. Установите зависимости:
